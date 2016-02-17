@@ -1213,6 +1213,16 @@
  }, 
  {
   "hasaande": false, 
+  "name": "BlueSkies Recovery", 
+  "url": "http://www.blueskies-recovery.com/", 
+  "telephone": "0203 151 7811", 
+  "longitude": "-0.795367", 
+  "postcode": "BN11 4DJ", 
+  "address": "Montrose House, 50 South Street, Farnham, Surrey", 
+  "latitude": "51.214174"
+ },
+ {
+  "hasaande": false, 
   "name": "Countess Mountbatten House", 
   "url": "http://www.suht.nhs.uk/cmh", 
   "telephone": "023 8047 7414", 
@@ -1357,6 +1367,16 @@
   "address": "Wiltshire", 
   "latitude": "51.038971063513806"
  }, 
+ {
+  "hasaande": false, 
+  "name": "Sancturary Lodge", 
+  "url": "http://www.sanctuarylodge.com/", 
+  "telephone": "0800 511 8111", 
+  "longitude": "0.639687", 
+  "postcode": "CO9 2DW", 
+  "address": "Hedingham road, Halstead, Essex", 
+  "latitude": "51.948728"
+ },
  {
   "hasaande": false, 
   "name": "New Hall NHS Treatment Centre", 
@@ -11702,5 +11722,15 @@
   "postcode": "EX9 6HF", 
   "address": "Devon", 
   "latitude": "50.6315332040496"
+ },
+  {
+  "hasaande": false, 
+  "name": "Recovery Lighthouse", 
+  "url": "http://www.recoverylighthouse.com/", 
+  "telephone": "0800 511 8112", 
+  "longitude": "-0.381845", 
+  "postcode": "BN11 4DJ", 
+  "address": "18 Winchester Road, Worthing, West Sussex", 
+  "latitude": "50.812288"
  }
 ]
